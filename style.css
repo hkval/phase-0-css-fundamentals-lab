@@ -3,3 +3,26 @@ body {
   height: 100%;
   margin: 0;
 }
+* {
+  text-align: center;
+}
+nav a {
+  margin-left: 10px;
+  margin-right: 10px;
+  background-color: aquamarine;
+}
+figcaption {
+  font-size: 12px;
+}
+section#featured-property p {
+  width: 800px;
+  margin: auto;
+  text-align: center;
+  margin-top: 15px;
+  margin-bottom: 15px
+}
+section#details div {
+  float: left;
+  width: 25%;
+  background-color: bisque;
+}
